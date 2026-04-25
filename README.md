@@ -1,4 +1,4 @@
-# 🛡️ ChurnGuard AI: Customer Retention Predictor
+# Kaggle Playground S6E3 -🛡️ ChurnGuard AI: Customer Retention Predictor
 
 ChurnGuard AI is a machine learning application designed to predict the likelihood of customer churn with high precision. Built with a **Gradient Boosting** architecture, the model achieves a **0.91 ROC-AUC** score, making it a reliable tool for business decision-making.
 
