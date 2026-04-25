@@ -16,31 +16,33 @@ ChurnGuard AI is a machine learning application designed to predict the likeliho
    
    cd churnguard-ai
 
-2. Install dependencies:
+2. **Install dependencies:**
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-3. Run the application:
+3. **Run the application:**
 
-streamlit run app.py
+   streamlit run app.py
 
 
 **📊 Model Performance**
-ROC-AUC: 0.91
 
-F1-Score: 0.70
+   ROC-AUC: 0.91
 
-Optimal Threshold: 0.3695
+   F1-Score: 0.70
 
-Top Features: Electronic Check payment, Contract Score, and Tenure.
+   Optimal Threshold: 0.3695
+
+   Top Features: Electronic Check payment, Contract Score, and Tenure.
 
 **🧰 Technologies Used**
-Python (Pandas, Numpy, Scikit-learn)
 
-Gradient Boosting (XGBoost/LightGBM logic)
+   Python (Pandas, Numpy, Scikit-learn)
 
-Streamlit (Web Interface)
+   Gradient Boosting (XGBoost/LightGBM logic)
 
-Joblib (Model Serialization)
+   Streamlit (Web Interface)
+
+   Joblib (Model Serialization)
 
 **Developed as part of a professional AI portfolio focusing on Customer Analytics.**
